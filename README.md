@@ -1,3 +1,4 @@
+## DESCRIPCION
 - Codigo mejorado en funcioens con retornos
 - Funciones Arimeticas limpias y clara
 - Funcion para Los inputs Para no repetir tanto codigo 
