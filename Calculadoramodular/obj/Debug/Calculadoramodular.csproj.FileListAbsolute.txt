@@ -1,0 +1,7 @@
+C:\Users\angel\Desktop\Curso Desarrollo de aplicaciones\Labotorio\Calculadoramodular\Calculadoramodular\bin\Debug\Calculadoramodular.exe.config
+C:\Users\angel\Desktop\Curso Desarrollo de aplicaciones\Labotorio\Calculadoramodular\Calculadoramodular\bin\Debug\Calculadoramodular.exe
+C:\Users\angel\Desktop\Curso Desarrollo de aplicaciones\Labotorio\Calculadoramodular\Calculadoramodular\bin\Debug\Calculadoramodular.pdb
+C:\Users\angel\Desktop\Curso Desarrollo de aplicaciones\Labotorio\Calculadoramodular\Calculadoramodular\obj\Debug\Calculadoramodular.csproj.AssemblyReference.cache
+C:\Users\angel\Desktop\Curso Desarrollo de aplicaciones\Labotorio\Calculadoramodular\Calculadoramodular\obj\Debug\Calculadoramodular.csproj.CoreCompileInputs.cache
+C:\Users\angel\Desktop\Curso Desarrollo de aplicaciones\Labotorio\Calculadoramodular\Calculadoramodular\obj\Debug\Calculadoramodular.exe
+C:\Users\angel\Desktop\Curso Desarrollo de aplicaciones\Labotorio\Calculadoramodular\Calculadoramodular\obj\Debug\Calculadoramodular.pdb
